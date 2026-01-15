@@ -4,60 +4,67 @@ title: Privacy Policy
 ---
 # Privacy Policy for Box Breathing Helper
 
-This Privacy Policy describes how Box Breathing Helper ("we," "us," or "our") collects, uses, and shares information when you use our mobile application (the "App").
+This Privacy Policy explains how Box Breathing Helper ("App") collects, uses, and shares information.
 
 ## 1. Information We Do Not Collect
-We do not collect any personal information from you. This includes, but is not limited to:
-- Your name  
-- Your email address  
-- Your location  
-- Your phone number  
-- Any other personally identifiable information  
+The App does not collect personal information directly from users.  
+- No name, email, location, phone number, or other personally identifiable data is collected.  
+- No account creation or login is required.  
+- No in-app purchases or paid services. All features are free.
 
-## 2. Third-Party Services
-**Google AdMob:** We use Google AdMob to display banner advertisements within the App.  
-Google AdMob may collect non-personal data, such as device information, to serve relevant ads.  
-Please refer to Google's Privacy Policy for more information: [https://policies.google.com/privacy](https://policies.google.com/privacy)
+## 2. Permissions
+The App uses only basic permissions:  
+- **INTERNET**: to load advertisements and connect online  
+- **ACCESS_NETWORK_STATE**: to check network status  
 
-## 3. Data Security
-We take reasonable measures to protect the limited non-personal data collected by third-party services.  
-However, no method of transmission over the Internet, or method of electronic storage, is 100% secure.  
-Therefore, we cannot guarantee its absolute security.
+These permissions are used solely for ads and connectivity checks.  
+No sensitive permissions (location, camera, microphone, contacts) are requested.
 
-## 4. Children's Privacy
-This App is designed for all ages.  
-We do not knowingly collect any personal information from children under the age of 13.  
-If you believe your child has provided personal information, please contact us.  
-Box Breathing Helper does not collect personal information directly.  
-Any data collected is handled by third-party services such as Google AdMob.  
-We will provide guidance on how you can request deletion or opt-out through Google’s privacy settings.
+## 3. Third-Party Services
+The App uses **Google AdMob** to display ads. AdMob may automatically collect non-personal data such as:  
+- App activity (ad clicks, impressions, session length)  
+- App info and performance (crash logs, diagnostics)  
+- Device identifiers (e.g., Google Advertising ID)  
 
-## 5. GDPR (General Data Protection Regulation)
-If you are located in the European Union, you have certain rights regarding data collected by third-party services such as Google AdMob.  
-These rights (access, update, deletion, opt-out of personalized ads) can be exercised through your device settings or directly with Google.  
-Box Breathing Helper itself does not collect or store personal information.
+Data is used for analytics and advertising/marketing purposes.  
+See Google’s Privacy Policy: [https://policies.google.com/privacy](https://policies.google.com/privacy)
 
-## 6. CCPA/CPRA (California Consumer Privacy Act)
-California residents have the right to know what data is collected by third-party services and to opt out of the sale of personal information.  
-These rights can be exercised through Google’s privacy settings.  
-Box Breathing Helper does not sell personal information.
+The App also relies on **Google Play Services** for core functionality. This is covered under Google’s Privacy Policy.
 
-## 7. CalOPPA (California Online Privacy Protection Act)
-This app provides a publicly accessible Privacy Policy.  
-Any changes to this policy will be updated on this page and are effective immediately upon posting.  
-We do not require users to re-consent within the App.  
-Users can contact us at: **jechoi337@gmail.com**
+## 4. Data Security
+Data collected by third-party services is transmitted via HTTPS.  
+No method of transmission or storage is 100% secure, so absolute security cannot be guaranteed.
 
-## 8. Changes to This Privacy Policy
+## 5. Children’s Privacy
+The App is rated for all ages but primarily intended for adults (18+).  
+The App does not knowingly collect personal information from children under 13.  
+Third-party services (AdMob, Google Play Services) may collect non-personal data such as device identifiers or app activity.  
+Parents can manage or delete such data through Google privacy settings.
+
+## 6. GDPR (EU General Data Protection Regulation)
+EU users have rights regarding data collected by AdMob and Google Play Services, including access, correction, deletion, and opting out of personalized ads.  
+These rights can be exercised via device settings or directly with Google.  
+The App itself does not collect or store personal information.
+
+## 7. CCPA/CPRA (California Consumer Privacy Act)
+California residents have the right to know what data is collected by third-party services and to opt out of personal information sales.  
+These rights can be exercised through Google privacy settings.  
+The App does not sell personal information.
+
+## 8. CalOPPA (California Online Privacy Protection Act)
+This App provides a publicly accessible Privacy Policy.  
+Changes will be updated on this page and are effective immediately upon posting.  
+For contact information, see the **Contact Us** section below.
+
+## 9. Changes to This Privacy Policy
 We may update this Privacy Policy from time to time.  
-We will notify you of any changes by posting the new Privacy Policy on this page.  
-You are advised to review this Privacy Policy periodically for any changes.  
-Changes to this Privacy Policy are effective when they are posted on this page.
+Significant changes may also be communicated via in-app notices.  
+Changes are effective when posted on this page.
 
-## 9. Additional Information
-- We do not collect device location, camera access, or contact list information.  
-- We do not send emails to users.  
-- We do not sell products or offer paid services within the App.  
+## 10. Additional Information
+- The App does not access location, camera, or contacts.  
+- The App does not send emails to users.  
+- The App does not provide paid services.
 
-## 10. Contact Us
-If you have any questions about this Privacy Policy, please contact us at: **jechoi337@gmail.com**
+## 11. Contact Us
+For questions about this Privacy Policy, contact: **jechoi337@gmail.com**
