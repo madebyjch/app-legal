@@ -1,3 +1,7 @@
+---
+layout: page
+title: Privacy Policy
+---
 # Privacy Policy for Box Breathing Helper
 
 This Privacy Policy describes how Box Breathing Helper ("we," "us," or "our") collects, uses, and shares information when you use our mobile application (the "App").
